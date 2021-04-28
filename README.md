@@ -1,0 +1,1 @@
+This is an exercise, I am using 'Props' in React and elements from Semantic-UI to generate the cards and coments, also Faker JS for the avatars.
